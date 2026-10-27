@@ -1,0 +1,11 @@
+{
+  "title": "SmartShield AI — Your Digital Safety Companion",
+  "description": "Your Digital Safety Companion - Real-time protection against scams, fake news, and deepfakes with heuristic and AI-assisted checks.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
